@@ -1,7 +1,5 @@
 # Gunshell Reloaded
 
-![Gunshell Banner](https://docs.gunshell.nl/gunshell_banner.png)
-
 <div style="text-align: center;">
 
 [![GPL License](https://img.shields.io/badge/license-GPL-blue?logo=github)](LICENSE)
